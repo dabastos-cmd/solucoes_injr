@@ -1,0 +1,3 @@
+Opa então enquanto eu resolvia esses problemas eu notei que por estar em um computador que usa a arquitetura ARM64 e o nodejs não funciona muito legal nessa arquitetura e eu não achei nenhuma maneira de funcionar ;-;
+
+eu queria pedir para que fosse levado em consideração essa minha limitação tecnológica que não consegui, a única biblioteca usada foi readline-sync que deveria ser instalada em conjunto com esse repositório.
